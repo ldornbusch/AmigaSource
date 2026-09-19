@@ -12,7 +12,7 @@ Code of very old Intros restored from Amiga floppies:
 
   <img src="screenshots/pushandmove.png" width="376"/>
 
-  (level 1 shown in the [pygame port](https://github.com/ldornbusch/sokoban), which redraws the original graphics)
+  (shown in the [pygame port](https://github.com/ldornbusch/sokoban), which redraws the original graphics)
 
 * gfabasic/PONG Pong clone
 
